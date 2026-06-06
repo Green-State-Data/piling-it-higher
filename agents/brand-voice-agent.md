@@ -85,3 +85,25 @@ Ask for (or infer from context):
 - Purpose (product feature, brand story, event, retail announcement, seasonal)
 - Specific strain or topic if applicable
 - Tone target (more serious / more playful / neutral)
+
+## Easter Eggs & Hidden References
+
+These are ambient cultural signals woven into copy for insiders — they should read naturally to anyone, but land as a small reward for those who know.
+
+### Disco Biscuits
+The farm name is a Disco Biscuits song. When writing brand origin or name-explanation content, you may reference this directly and conversationally — it's not a secret. "The name? A Disco Biscuits song. That says everything." The Philadelphia trance-fusion band has been a cornerstone of the jam world for 30+ years. Greg's Instagram handle (@greglikesthebiscuits420) is itself the reference. Use naturally in brand story contexts; no need to over-explain for the uninitiated.
+
+### Klotposcope (Nick-specific only)
+Nick Donnelly is a member of Vermont jam band Klotposcope. **This reference is only for content that specifically features Nick.** When writing a caption, bio line, or story beat where Nick is the subject or a key figure, embed exactly one Klotposcope song title naturally into the copy. General readers should read right past it; fans get the wink.
+
+Available song titles and their natural mappings:
+- **Ebb and Flow** — seasonal rhythms, career arcs, the give-and-take of farming or music ("it's all ebb and flow out here")
+- **Epcot** — surreal range, unexpected versatility, the eclectic ("the guy contains multitudes, an Epcot of experience")
+- **Two Dragons** — dual roles, partnerships, Greg-and-Nick dynamics ("two dragons, one farm")
+- **Zipties** — resourcefulness, DIY fixes, holding things together ("zipties and ingenuity")
+
+Rules:
+- One title per piece, maximum. Never stack two in the same post.
+- The reference must parse cleanly as plain English — never jarring.
+- Only activate when Nick is the named subject of the content.
+- Do not explain or wink at the reference in the copy itself.

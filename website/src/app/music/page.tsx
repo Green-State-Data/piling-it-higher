@@ -5,13 +5,11 @@ import Nav from "@/components/Nav";
 export const metadata: Metadata = {
   title: "Music | Pilin' It Higher Farms",
   description:
-    "The music that shapes Pilin' It Higher Farms — The Edd, the Disco Biscuits, and the Vermont jam scene that started it all.",
+    "The Edd — jamtronic space rock out of Vermont, and the sound behind Pilin' It Higher Farms.",
 };
 
 // Event poster — Dawn of the Edd, sponsored by Pilin' It Higher
 const DAWN_OF_EDD = "/images/624843910_17986925786923672_6807344059480959037_n.jpg";
-// Space Bacon show poster — also sponsored by Pilin' It Higher
-const SPACE_BACON = "/images/655970694_18153745996394909_5984134191038558205_n.jpg";
 
 export default function MusicPage() {
   return (
@@ -20,8 +18,6 @@ export default function MusicPage() {
       <main className="bg-forest min-h-screen">
         <PageHero />
         <TheEddSection />
-        <DiscoBiscuitsSection />
-        <VermontSceneSection />
       </main>
       <PageFooter />
     </>
@@ -42,8 +38,8 @@ function PageHero() {
       </h1>
       <p className="text-smoke/70 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto">
         This farm didn&apos;t come from a business plan. It came from a bass
-        line, a Disco Biscuits song, and decades of growing things in Vermont.
-        The music and the soil have always been the same story.
+        line and decades of growing things in Vermont. The music and the soil
+        have always been the same story.
       </p>
     </section>
   );
@@ -118,101 +114,6 @@ function TheEddSection() {
             </p>
           </div>
         </div>
-      </div>
-    </section>
-  );
-}
-
-/* ─────────────────────────────────────────────
-   DISCO BISCUITS
-───────────────────────────────────────────── */
-function DiscoBiscuitsSection() {
-  return (
-    <section className="border-t border-smoke/10 py-24 bg-bark/40">
-      <div className="max-w-4xl mx-auto px-6 text-center flex flex-col gap-6 items-center">
-        <p className="text-amber text-xs tracking-[0.2em] uppercase">
-          The name
-        </p>
-        <h2 className="font-serif text-cream text-4xl sm:text-5xl leading-tight">
-          Disco Biscuits
-        </h2>
-        <p className="text-smoke/70 text-lg leading-relaxed max-w-2xl">
-          The farm is named after a Disco Biscuits song. If you know, you know.
-          The Philadelphia trance-fusion outfit has been one of the cornerstones
-          of the jam world for thirty years — and their influence runs deep
-          through the culture that built this farm.
-        </p>
-        <p className="text-smoke/50 leading-relaxed max-w-xl">
-          More on the Biscuits, their music, and what it means to this brand
-          — coming soon.
-        </p>
-        <div className="w-8 h-px bg-amber/30 mt-2" />
-      </div>
-    </section>
-  );
-}
-
-/* ─────────────────────────────────────────────
-   VERMONT SCENE
-───────────────────────────────────────────── */
-function VermontSceneSection() {
-  const acts = [
-    {
-      name: "Klotposcope",
-      descriptor: "Vermont · Psychedelic · Improvised",
-      note: "More coming soon.",
-    },
-    {
-      name: "Space Bacon",
-      descriptor: "Vermont · Jam · High energy",
-      note: "Pilin' It Higher proud sponsor.",
-      img: SPACE_BACON,
-    },
-  ];
-
-  return (
-    <section className="border-t border-smoke/10 py-24">
-      <div className="max-w-6xl mx-auto px-6">
-        <div className="flex flex-col gap-3 mb-16 text-center items-center">
-          <p className="text-amber text-xs tracking-[0.2em] uppercase">
-            The scene
-          </p>
-          <h2 className="font-serif text-cream text-4xl sm:text-5xl">
-            Vermont Jam
-          </h2>
-          <p className="text-smoke/60 max-w-md leading-relaxed">
-            The music community that shaped this farm. More artists, playlists,
-            and context coming soon.
-          </p>
-        </div>
-
-        <div className="grid sm:grid-cols-2 gap-8 max-w-3xl mx-auto">
-          {acts.map((act) => (
-            <div
-              key={act.name}
-              className="bg-forest/60 border border-smoke/10 rounded p-6 flex flex-col gap-3"
-            >
-              {act.img && (
-                <div className="relative h-48 rounded overflow-hidden mb-2">
-                  <Image
-                    src={act.img}
-                    alt={act.name}
-                    fill
-                    className="object-cover"
-                  />
-                </div>
-              )}
-              <h3 className="font-serif text-cream text-2xl">{act.name}</h3>
-              <p className="text-amber/60 text-xs tracking-wide">{act.descriptor}</p>
-              <p className="text-smoke/50 text-sm">{act.note}</p>
-            </div>
-          ))}
-        </div>
-
-        <p className="text-smoke/30 text-sm text-center mt-16 max-w-md mx-auto">
-          This page is being built out. More music, more context, more
-          interactivity — check back soon.
-        </p>
       </div>
     </section>
   );
