@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import Image from "next/image";
 import Nav from "@/components/Nav";
+import InstagramReels from "@/components/InstagramReels";
 
 export const metadata: Metadata = {
   title: "Music | Pilin' It Higher Farms",
@@ -114,6 +115,8 @@ function TheEddSection() {
             </p>
           </div>
         </div>
+
+        <InstagramReels />
       </div>
     </section>
   );
