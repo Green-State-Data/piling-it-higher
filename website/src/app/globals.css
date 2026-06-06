@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --color-forest:       #0d1f14;
+  --color-moss:         #2a5238;
+  --color-sage:         #6b8c5a;
+  --color-amber:        #c4883a;
+  --color-amber-light:  #d9a85c;
+  --color-cream:        #f5f0e8;
+  --color-smoke:        #e8e2d8;
+  --color-bark:         #2b1e14;
+}
+
+@theme inline {
+  --font-sans:   var(--font-dm-sans);
+  --font-serif:  var(--font-dm-serif);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-cream);
+  color: var(--color-bark);
+  -webkit-font-smoothing: antialiased;
+}

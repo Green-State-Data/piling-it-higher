@@ -1,0 +1,161 @@
+{
+  "company": {
+    "name": "Pilin' It Higher Farms",
+    "instagram_handle": "@pilin_it_higher_farms",
+    "instagram_bio": "Tier 2 Cannabis Cultivator perched high in the hills of Duxbury, VT. Greenhouse Grown on a Solar Powered off-grid farm.",
+    "tagline_options": [
+      "Grown with roots. Raised on rhythm.",
+      "Vermont-grown. Music-inspired.",
+      "From the ground up."
+    ],
+    "location": "Duxbury, Vermont",
+    "founded": 2023,
+    "licensed": 2024,
+    "license_tier": "Tier 2 cultivation (Vermont Cannabis Control Board)"
+  },
+  "founders": {
+    "greg_domina": {
+      "role": "Co-founder, head grower",
+      "background": [
+        "Bassist for Vermont jam band The Edd",
+        "Legacy cannabis cultivator with decades of experience",
+        "Lifelong Vermont resident, raised in Dover",
+        "Vegetable and cannabis grower by nature"
+      ],
+      "voice_quote": "I love growing stuff. I've always been growing vegetables and cannabis anyway."
+    },
+    "danielle_domina": {
+      "role": "Co-founder"
+    },
+    "nick_donnelly": {
+      "role": "Co-owner",
+      "instagram": "@mister_d0n",
+      "background": [
+        "Co-owner and partner in Pilin' It Higher Farms",
+        "Guitarist — can handle himself with a guitar in his hands",
+        "Extensive experience in the relatively new Vermont cannabis industry (legacy grower)",
+        "Part of the music and growing community that built this brand"
+      ]
+    }
+  },
+  "brand_story": {
+    "name_origin": "Named after a Disco Biscuits song — reflects the founders' deep roots in jam band culture",
+    "ethos": "A legacy grower going legit. Deep Vermont roots, music-soaked soul, craft-first growing philosophy.",
+    "journey": "Started legalization process January 2023, received CCB approval April 2024. A slow, deliberate build."
+  },
+  "products": {
+    "strains": [
+      {
+        "name": "Snowberry",
+        "status": "flagship",
+        "description": "Decade-old mother plant. Bred for Vermont — mold-resistant, thrives in the local climate. A true heirloom.",
+        "keywords": ["heirloom", "heritage", "Vermont-adapted", "mold-resistant"]
+      },
+      {
+        "name": "Zerbtane",
+        "status": "premium",
+        "description": "Highest THC offering. Oregon-bred genetics brought to Vermont soil.",
+        "keywords": ["high-THC", "potent", "Oregon genetics"]
+      },
+      {
+        "name": "Amnesia Daze",
+        "status": "available",
+        "description": "Sativa-leaning, cerebral, citrus-forward. Opens things up.",
+        "keywords": ["sativa", "citrus", "cerebral", "uplifting"]
+      },
+      {
+        "name": "Mintz Royale",
+        "status": "available",
+        "description": "Cool and creamy up front, serious underneath. Mint and sweet earth.",
+        "keywords": ["hybrid", "mint", "cream", "high-potency"]
+      },
+      {
+        "name": "Diesel Dough",
+        "status": "available",
+        "description": "Diesel genetics meeting Vermont living soil. Fuel and sweetness, complex and pungent.",
+        "keywords": ["indica", "diesel", "fuel", "sweet earth"]
+      }
+    ],
+    "cultivation": {
+      "method": "Greenhouse / outdoor protected cultivation",
+      "greenhouses": 4,
+      "capacity": 312,
+      "scale_2024": 200,
+      "power": "Solar-powered, off-grid farm",
+      "soil": "Living soil",
+      "notes": "Year-round growing capability. Weather-protected. Solar-powered off-grid. Living soil methodology. Hands-on, small-batch philosophy."
+    }
+  },
+  "distribution": [
+    {
+      "retailer": "Mountain Girl Cannabis",
+      "location": "Rutland, VT"
+    },
+    {
+      "retailer": "Green State Dispensary",
+      "location": "Burlington, VT",
+      "status": "anticipated"
+    }
+  ],
+  "brand_voice": {
+    "personality": [
+      "Authentic — no hype, no corporate gloss",
+      "Music-rooted — jam culture, improvisation, community",
+      "Vermont-proud — seasons, soil, small-town craft, off-grid living",
+      "Technically fluent — IPM, living soil, terpene profiles — but never gatekeeping",
+      "Understated confidence — they know their craft, they don't need to shout",
+      "Warmly irreverent — humor welcome, never crass"
+    ],
+    "voice_examples_real": [
+      "When the fruits of your labor look, smell, & taste this good it's safe to say you're doing it right 🤙 Proud to be back at it again with our 3rd harvest bringing quality off-grid/living soil/greenhouse cannabis to the good people of VT!!",
+      "Trimming up some Snowberry and this strain never ceases to amaze me. Gloves are mighty sticky and it reeks like pine infused jet fuel ⛽️\nIf you've smoked it then you know why we've kept the cut for so many years! Here's to a lot more of it in 2025.",
+      "Part of a healthy grow is having some solid IPM practices! Yesterday we released 5,000 minute pirate bugs and 10,000 green lacewing into our greenhouses. These guys devour pests and we thank them for their hard work!",
+      "Almost time to get everyone into their forever homes! Growing up in Southern VT I'd always plant mid May but Duxbury is a different world! First week of June seems to be the sweet spot on our property."
+    ],
+    "tone_by_channel": {
+      "instagram": "Conversational, visual storytelling, music references natural. Hashtags: minimal and purposeful.",
+      "facebook": "Community-oriented, slightly longer form, good for event/retail announcements.",
+      "website": "Warm and narrative. Tell the story. Let the product speak.",
+      "press": "Grounded, factual, founder-voice. Let Greg's authenticity carry it."
+    },
+    "do": [
+      "Reference Vermont seasons, landscape, and culture",
+      "Weave in music references naturally — Disco Biscuits, jam bands, The Edd",
+      "Center Greg and Danielle's story and craft",
+      "Use plain, vivid language — no cannabis industry jargon",
+      "Highlight the legacy-to-legal journey as a point of pride",
+      "Emphasize small-batch, hands-on cultivation"
+    ],
+    "dont": [
+      "Use exaggerated cannabis slang ('dank', 'fire', 'loud') unless used ironically",
+      "Make medical claims or imply health benefits",
+      "Sound corporate or mass-market",
+      "Overuse emojis",
+      "Reference competitors",
+      "Use generic 'cannabis lifestyle' tropes (people getting stoned on couches)"
+    ]
+  },
+  "visual_identity": {
+    "aesthetic_keywords": [
+      "Vermont craft",
+      "warm earth tones",
+      "greenhouse light",
+      "concert posters",
+      "hand-drawn feel",
+      "organic texture"
+    ],
+    "mood": "Think: a Phish poster designed by a Vermont farmer. Psychedelic undertones kept tasteful.",
+    "photography_style": "Real — actual greenhouse, actual plants, actual people. No stock. Seasonal."
+  },
+  "audience": {
+    "primary": "Vermont cannabis consumers who value craft and provenance",
+    "secondary": "Jam band / music community in Vermont and New England",
+    "tertiary": "Legacy cannabis culture looking for trusted, known growers going legit"
+  },
+  "legal_compliance_notes": [
+    "Vermont Adult Use cannabis — all content must comply with Vermont Cannabis Control Board advertising rules",
+    "No marketing to minors — no imagery or language that could appeal to under-21 audiences",
+    "No health or medical claims",
+    "Include required disclosures on all advertising materials"
+  ]
+}

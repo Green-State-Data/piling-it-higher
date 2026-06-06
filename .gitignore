@@ -1,0 +1,15 @@
+# Next.js
+website/.next/
+website/node_modules/
+
+# Env files
+.env
+.env.local
+.env*.local
+
+# OS
+.DS_Store
+
+# Keys — never commit
+*.json.key
+gcp-*.json
